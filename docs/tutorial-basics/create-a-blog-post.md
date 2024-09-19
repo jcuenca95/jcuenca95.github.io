@@ -6,7 +6,7 @@ sidebar_position: 3
 
 # HOLA SOY JOJE
 
-y este es el apartado de joge
+y este es el apartado de jogeadsasdasd
 
 ```(javascript)
 var a = "assd"
