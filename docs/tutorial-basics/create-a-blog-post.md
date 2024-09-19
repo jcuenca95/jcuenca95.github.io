@@ -4,6 +4,14 @@ sidebar_position: 3
 
 # Create a Blog Post
 
+# HOLA SOY JOJE
+
+y este es el apartado de joge
+
+```(javascript)
+var a = "assd"
+```
+
 Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
 
 ## Create your first Post
